@@ -1,0 +1,6 @@
+[UI]
+name = " Recipe Chef Bot"
+description = "Your smart recipe assistant 👨‍🍳"
+logo = "public/banner.png"
+default_theme = "dark"
+layout = "wide"
